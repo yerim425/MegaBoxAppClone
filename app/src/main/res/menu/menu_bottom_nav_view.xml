@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuHome"
+        android:title="홈"
+        android:enabled="true"
+        android:visible="true"
+        android:icon="@drawable/sel_nav_home"
+        />
+    <item
+        android:id="@+id/menuStore"
+        android:title="스토어"
+        android:enabled="true"
+        android:visible="true"
+        android:icon="@drawable/sel_nav_store"
+        />
+    <item
+        android:id="@+id/menuBook"
+        android:title="예매"
+        android:enabled="true"
+        android:visible="true"
+        android:icon="@drawable/sel_nav_book"
+        />
+    <item
+        android:id="@+id/menuMobileOrder"
+        android:title="모바일오더"
+        android:enabled="true"
+        android:visible="true"
+        android:icon="@drawable/sel_nav_mobile_order"
+        />
+    <item
+        android:id="@+id/menuMy"
+        android:title="MY"
+        android:enabled="true"
+        android:visible="true"
+        android:icon="@drawable/sel_nav_my"
+        />
+
+</menu>

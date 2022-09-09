@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="app_btn">#07C7DD</color>
+    <color name="app_btn2">#0EB5C8</color>
+    <color name="simple_login">#3F75A7</color>
+    <color name="menu_login">#B29BCE</color>
+    <color name="app_bg">#0E0929</color>
+    <color name="login_gray">#858585</color>
+    <color name="text_shadow">#6D000000</color>
+    <color name="category_txt">#A6A6AE</color>
+    <color name="category_txt2">#C0C0C6</color>
+    <color name="grade_star">#6136BC</color>
+    <color name="line">#EAEAEA</color>
+    <color name="bottom_bg">#F6F6F6</color>
+    <color name="special_official">#76708A</color>
+    <color name="search_view">#E59700</color>
+    <color name="watchGrade_all">#449514</color>
+    <color name="watchGrade_12">#2490F2</color>
+    <color name="watchGrade_15">#D89311</color>
+</resources>
