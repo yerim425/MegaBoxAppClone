@@ -1,5 +1,4 @@
-# RisingCamp5
-## 메가박스 클론코딩
+# 메가박스 클론코딩
 ### 시연영상 링크
 https://drive.google.com/file/d/1xMaaIKn_NJTiiyG54ICLCFpf_ud6klqJ/view?usp=sharing
 ### MainActivity
